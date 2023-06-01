@@ -1,0 +1,6 @@
+root@2f6b622868ae:/git clone https://{step 1}@github.com/{step 0 and step 1}/alx-pre_course.git 
+Cloning into 'alx-pre_course'...
+warning: You appear to have cloned an empty repository.
+root@2f6b622868ae:/# cd alx-pre_course/
+root@2f6b622868ae:/alx-pre_course#
+0x01-git
